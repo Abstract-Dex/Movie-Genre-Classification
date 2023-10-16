@@ -9,6 +9,8 @@ sites/site*/public/theme/
 textpattern/
 HISTORY.txt
 README.txt
+test_data.txt
+train_data.txt
 
 #Ignore text files
-*.txt
+# *.txt

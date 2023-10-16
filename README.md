@@ -21,3 +21,9 @@ The model is a simple Logistic Regression model, trained along with the OneVsRes
 ### Evaluation
 
 The model is evaluated using the accuracy score and the confusion matrix.
+
+### Steps to run the project
+
+1. Clone the repository
+2. Install the requirements using `pip install -r requirements.txt`
+3. Run the `main.ipynb` file using `jupyter notebook`
